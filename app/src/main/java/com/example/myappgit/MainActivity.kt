@@ -1,4 +1,5 @@
 package com.example.myappgit
+// Version 2 - nueva funcionalidad
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
